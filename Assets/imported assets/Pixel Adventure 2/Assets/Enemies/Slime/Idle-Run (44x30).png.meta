@@ -85,7 +85,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -150,13 +150,13 @@ TextureImporter:
       name: Idle-Run (44x30)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 44
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 1
+        y: 1
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.39076155, y: 0.50000036}
+      border: {x: 4, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -172,13 +172,13 @@ TextureImporter:
       name: Idle-Run (44x30)_1
       rect:
         serializedVersion: 2
-        x: 44
+        x: 46
         y: 0
-        width: 44
+        width: 39
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 1, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -194,13 +194,13 @@ TextureImporter:
       name: Idle-Run (44x30)_2
       rect:
         serializedVersion: 2
-        x: 88
-        y: 0
-        width: 44
-        height: 30
+        x: 89
+        y: 1
+        width: 39
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -221,8 +221,8 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 1, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -243,7 +243,7 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -260,13 +260,13 @@ TextureImporter:
       name: Idle-Run (44x30)_5
       rect:
         serializedVersion: 2
-        x: 220
+        x: 219
         y: 0
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -287,7 +287,7 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,7 +309,7 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,7 +331,7 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,7 +353,7 @@ TextureImporter:
         width: 44
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
